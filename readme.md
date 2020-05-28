@@ -1,0 +1,2 @@
+/em swings his @{selected|MW1name} mightily at @{target|token_name}!
+&{template:atkdmg} {{attack=1}} {{advantage=1}} {{rname=@{selected|MW1name}}} {{r1=[[1d20+@{selected|MW1tohit}]]}} {{r2=[[1d20+@{selected|MW1tohit}]]}} {{mod=Martial}} {{damage=1}} {{dmg1flag=1}} {{dmg1=[[@{selected|MW1dmg}+@{selected|MW1dmgbonus}]]}} {{crit1=[[@{selected|MW1dmg}]]}} {{dmg1type=@{selected|MW1wield}, @{selected|MW1dmgtype}}} {{charname={@selected}}}
